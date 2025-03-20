@@ -1,1 +1,1 @@
-print("hello dunia")
+print("hello word")
